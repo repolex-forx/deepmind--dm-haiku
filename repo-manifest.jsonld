@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/deepmind/dm-haiku/commit/5e13a6667200701e701090e1893421e074f442a2",
       "git:hexsha": "5e13a6667200701e701090e1893421e074f442a2",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T01:07:57.675960+00:00"
     },
     {
       "@id": "https://repolex.ai/r/deepmind/dm-haiku/commit/064ddf588fae4ce8feb3851ffd6f6790c231bd03",
