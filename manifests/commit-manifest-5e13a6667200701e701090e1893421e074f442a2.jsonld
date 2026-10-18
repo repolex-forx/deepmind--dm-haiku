@@ -1,0 +1,38 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/deepmind/dm-haiku/commit/5e13a6667200701e701090e1893421e074f442a2",
+  "@type": "git:Commit",
+  "git:hexsha": "5e13a6667200701e701090e1893421e074f442a2",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/deepmind/dm-haiku"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/5e13a6667200701e701090e1893421e074f442a2.nq.gz",
+      "repolex:graphFileSize": 45011
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 599921
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 1701
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 1015
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-10-18T00:55:59.027726+00:00",
+  "repolex:parserVersion": "0.1.10"
+}
